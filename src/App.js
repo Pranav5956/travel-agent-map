@@ -5,10 +5,12 @@ import "mapbox-gl/dist/mapbox-gl.css";
 import { createRef, useEffect } from "react";
 
 import MapboxDirections from "@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions";
+// eslint-disable-next-line import/no-webpack-loader-syntax
+import mapboxWorker from "worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker";
 import mapboxgl from "mapbox-gl";
 
+mapboxgl.workerClass = mapboxWorker.default;
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_ACCESS_TOKEN;
-console.log(process.env.REACT_APP_MAPBOX_ACCESS_TOKEN);
 
 function App() {
   const mapContainer = createRef();
