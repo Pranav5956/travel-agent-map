@@ -8,6 +8,7 @@ import MapboxDirections from "@mapbox/mapbox-gl-directions/dist/mapbox-gl-direct
 import mapboxgl from "mapbox-gl";
 
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_ACCESS_TOKEN;
+console.log(process.env.REACT_APP_MAPBOX_ACCESS_TOKEN);
 
 function App() {
   const mapContainer = createRef();
