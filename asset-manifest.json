@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Pranav5956/travel-agent-map/static/css/main.03594bc7.chunk.css",
-    "main.js": "/Pranav5956/travel-agent-map/static/js/main.ba1bd559.chunk.js",
-    "main.js.map": "/Pranav5956/travel-agent-map/static/js/main.ba1bd559.chunk.js.map",
-    "runtime-main.js": "/Pranav5956/travel-agent-map/static/js/runtime-main.382b487d.js",
-    "runtime-main.js.map": "/Pranav5956/travel-agent-map/static/js/runtime-main.382b487d.js.map",
-    "static/css/2.ce81b22b.chunk.css": "/Pranav5956/travel-agent-map/static/css/2.ce81b22b.chunk.css",
-    "static/js/2.6194e568.chunk.js": "/Pranav5956/travel-agent-map/static/js/2.6194e568.chunk.js",
-    "static/js/2.6194e568.chunk.js.map": "/Pranav5956/travel-agent-map/static/js/2.6194e568.chunk.js.map",
-    "index.html": "/Pranav5956/travel-agent-map/index.html",
-    "static/css/2.ce81b22b.chunk.css.map": "/Pranav5956/travel-agent-map/static/css/2.ce81b22b.chunk.css.map",
-    "static/css/main.03594bc7.chunk.css.map": "/Pranav5956/travel-agent-map/static/css/main.03594bc7.chunk.css.map",
-    "static/js/2.6194e568.chunk.js.LICENSE.txt": "/Pranav5956/travel-agent-map/static/js/2.6194e568.chunk.js.LICENSE.txt",
-    "static/js/mapbox-gl-csp-worker.df4cb405.worker.js": "/Pranav5956/travel-agent-map/static/js/mapbox-gl-csp-worker.df4cb405.worker.js",
-    "static/js/mapbox-gl-csp-worker.df4cb405.worker.js.map": "/Pranav5956/travel-agent-map/static/js/mapbox-gl-csp-worker.df4cb405.worker.js.map"
+    "main.css": "/travel-agent-map/static/css/main.03594bc7.chunk.css",
+    "main.js": "/travel-agent-map/static/js/main.ba1bd559.chunk.js",
+    "main.js.map": "/travel-agent-map/static/js/main.ba1bd559.chunk.js.map",
+    "runtime-main.js": "/travel-agent-map/static/js/runtime-main.44d78b34.js",
+    "runtime-main.js.map": "/travel-agent-map/static/js/runtime-main.44d78b34.js.map",
+    "static/css/2.ce81b22b.chunk.css": "/travel-agent-map/static/css/2.ce81b22b.chunk.css",
+    "static/js/2.2f097994.chunk.js": "/travel-agent-map/static/js/2.2f097994.chunk.js",
+    "static/js/2.2f097994.chunk.js.map": "/travel-agent-map/static/js/2.2f097994.chunk.js.map",
+    "index.html": "/travel-agent-map/index.html",
+    "static/css/2.ce81b22b.chunk.css.map": "/travel-agent-map/static/css/2.ce81b22b.chunk.css.map",
+    "static/css/main.03594bc7.chunk.css.map": "/travel-agent-map/static/css/main.03594bc7.chunk.css.map",
+    "static/js/2.2f097994.chunk.js.LICENSE.txt": "/travel-agent-map/static/js/2.2f097994.chunk.js.LICENSE.txt",
+    "static/js/mapbox-gl-csp-worker.83359d7a.worker.js": "/travel-agent-map/static/js/mapbox-gl-csp-worker.83359d7a.worker.js",
+    "static/js/mapbox-gl-csp-worker.83359d7a.worker.js.map": "/travel-agent-map/static/js/mapbox-gl-csp-worker.83359d7a.worker.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.382b487d.js",
+    "static/js/runtime-main.44d78b34.js",
     "static/css/2.ce81b22b.chunk.css",
-    "static/js/2.6194e568.chunk.js",
+    "static/js/2.2f097994.chunk.js",
     "static/css/main.03594bc7.chunk.css",
     "static/js/main.ba1bd559.chunk.js"
   ]
