@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/travel-agent-map/static/css/main.03594bc7.chunk.css",
-    "main.js": "/travel-agent-map/static/js/main.ba1bd559.chunk.js",
-    "main.js.map": "/travel-agent-map/static/js/main.ba1bd559.chunk.js.map",
+    "main.js": "/travel-agent-map/static/js/main.0e111922.chunk.js",
+    "main.js.map": "/travel-agent-map/static/js/main.0e111922.chunk.js.map",
     "runtime-main.js": "/travel-agent-map/static/js/runtime-main.44d78b34.js",
     "runtime-main.js.map": "/travel-agent-map/static/js/runtime-main.44d78b34.js.map",
-    "static/css/2.ce81b22b.chunk.css": "/travel-agent-map/static/css/2.ce81b22b.chunk.css",
-    "static/js/2.2f097994.chunk.js": "/travel-agent-map/static/js/2.2f097994.chunk.js",
-    "static/js/2.2f097994.chunk.js.map": "/travel-agent-map/static/js/2.2f097994.chunk.js.map",
+    "static/css/2.8227ff8d.chunk.css": "/travel-agent-map/static/css/2.8227ff8d.chunk.css",
+    "static/js/2.2ac0c007.chunk.js": "/travel-agent-map/static/js/2.2ac0c007.chunk.js",
+    "static/js/2.2ac0c007.chunk.js.map": "/travel-agent-map/static/js/2.2ac0c007.chunk.js.map",
     "index.html": "/travel-agent-map/index.html",
-    "static/css/2.ce81b22b.chunk.css.map": "/travel-agent-map/static/css/2.ce81b22b.chunk.css.map",
+    "static/css/2.8227ff8d.chunk.css.map": "/travel-agent-map/static/css/2.8227ff8d.chunk.css.map",
     "static/css/main.03594bc7.chunk.css.map": "/travel-agent-map/static/css/main.03594bc7.chunk.css.map",
-    "static/js/2.2f097994.chunk.js.LICENSE.txt": "/travel-agent-map/static/js/2.2f097994.chunk.js.LICENSE.txt",
-    "static/js/mapbox-gl-csp-worker.83359d7a.worker.js": "/travel-agent-map/static/js/mapbox-gl-csp-worker.83359d7a.worker.js",
-    "static/js/mapbox-gl-csp-worker.83359d7a.worker.js.map": "/travel-agent-map/static/js/mapbox-gl-csp-worker.83359d7a.worker.js.map"
+    "static/js/2.2ac0c007.chunk.js.LICENSE.txt": "/travel-agent-map/static/js/2.2ac0c007.chunk.js.LICENSE.txt",
+    "static/js/mapbox-gl-csp-worker.236f81d1.worker.js": "/travel-agent-map/static/js/mapbox-gl-csp-worker.236f81d1.worker.js",
+    "static/js/mapbox-gl-csp-worker.236f81d1.worker.js.map": "/travel-agent-map/static/js/mapbox-gl-csp-worker.236f81d1.worker.js.map"
   },
   "entrypoints": [
     "static/js/runtime-main.44d78b34.js",
-    "static/css/2.ce81b22b.chunk.css",
-    "static/js/2.2f097994.chunk.js",
+    "static/css/2.8227ff8d.chunk.css",
+    "static/js/2.2ac0c007.chunk.js",
     "static/css/main.03594bc7.chunk.css",
-    "static/js/main.ba1bd559.chunk.js"
+    "static/js/main.0e111922.chunk.js"
   ]
 }
